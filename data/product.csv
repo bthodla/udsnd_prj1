@@ -1,0 +1,427 @@
+ticker,product_name,tna,ms_rating,exp_ratio,market_cap
+VFIAX,Vanguard 500 Index Admiral,163456368456,5,0.05,Giant
+VTSAX,Vanguard Total Stock Mkt Idx Adm,136131758268,4,0.05,Giant
+VINIX,Vanguard Institutional Index I,110407917518,5,0.04,Giant
+VTSMX,Vanguard Total Stock Mkt Idx Inv,98869371846,4,0.16,Giant
+VIIIX,Vanguard Institutional Index Instl Pl,93192353649,5,0.02,Giant
+VGTSX,Vanguard Total Intl Stock Index Inv,81937021336,3,0.19,Giant
+FCNTX,Fidelity Contrafund,75239109555,4,0.71,Giant
+AMECX,American Funds Inc Fund of Amer A,74038034448,4,0.55,Giant
+AGTHX,American Funds Growth Fund of Amer A,72365559881,3,0.65,Giant
+CAIBX,American Funds Capital Inc Bldr A,71981184245,4,0.59,Giant
+VWENX,Vanguard Wellington Admiral,71080590156,5,0.18,Giant
+VBTLX,Vanguard Total Bond Market Index Adm,69560710526,3,0.06,Giant
+VITSX,Vanguard Total Stock Market Idx I,67616399445,4,0.04,Giant
+PTTRX,PIMCO Total Return Instl,58804901978,4,0.46,Giant
+AIVSX,American Funds Invmt Co of Amer A,57215053118,3,0.58,Giant
+FUSVX,Fidelity Spartan 500 Index Advtg,54672986785,5,0.05,Giant
+DODGX,Dodge & Cox Stock,53716464116,3,0.52,Giant
+ABALX,American Funds American Balanced A,53318004773,4,0.58,Giant
+DODFX,Dodge & Cox International Stock,51604498866,3,0.64,Giant
+CWGIX,American Funds Capital World G/I A,51573788049,4,0.77,Giant
+AWSHX,American Funds Washington Mutual A,51367700244,4,0.58,Giant
+MWTIX,Metropolitan West Total Return Bond I,49461319405,5,0.44,Giant
+VWIUX,Vanguard Interm-Term Tx-Ex Adm,47003934390,4,0.12,Giant
+DODIX,Dodge & Cox Income,46108249705,4,0.43,Giant
+ANCFX,American Funds Fundamental Invs A,45851376284,3,0.6,Giant
+FKINX,Franklin Income A,44436833774,2,0.61,Giant
+RERGX,American Funds Europacific Growth R6,43016729890,3,0.5,Giant
+VTIAX,Vanguard Total Intl Stock Index Admiral,41072489960,3,0.12,Giant
+VITPX,Vanguard Instl Ttl Stk Mkt Idx InstlPls,38476978339,4,0.02,Giant
+VGHAX,Vanguard Health Care Adm,37537268457,5,0.31,Giant
+VFSUX,Vanguard Short-Term Investment-Grade Adm,36404019214,4,0.1,Giant
+ANWPX,American Funds New Perspective A,35766643538,4,0.75,Giant
+PRGFX,T. Rowe Price Growth Stock,35560409826,4,0.67,Giant
+HAINX,Harbor International Institutional,35441665468,3,0.76,Large
+VWIAX,Vanguard Wellesley Income Admiral,33867142939,5,0.16,Large
+VBTIX,Vanguard Total Bond Market Index I,33560090583,3,0.05,Large
+VWNAX,Vanguard Windsor II Admiral,30938154323,4,0.26,Large
+VDIGX,Vanguard Dividend Growth Inv,30620300837,5,0.33,Large
+VTTVX,Vanguard Target Retirement 2025 Inv,30439909700,5,0.15,Large
+FCNKX,Fidelity Contrafund K,30285606478,4,0.61,Large
+FLPSX,Fidelity Low-Priced Stock,27956501576,4,0.79,Large
+FXSIX,Fidelity Spartan 500 Index Instl,27221922874,5,0.04,Large
+VIMAX,Vanguard Mid Cap Index Adm,26851674366,4,0.08,Large
+VTWNX,Vanguard Target Retirement 2020 Inv,26614769655,5,0.14,Large
+VFINX,Vanguard 500 Index Inv,26161625157,4,0.16,Large
+AEPGX,American Funds Europacific Growth A,25678151371,2,0.83,Large
+AMCPX,American Funds AMCAP A,25577046631,3,0.67,Large
+PREIX,T. Rowe Price Equity Index 500,25520572294,4,0.27,Large
+VBMPX,Vanguard Total Bond Market Idx InstlPls,25366147048,3,0.04,Large
+TRBCX,T. Rowe Price Blue Chip Growth,25091434429,4,0.71,Large
+PIMIX,PIMCO Income Instl,24369563456,5,0.45,Large
+TGBAX,Templeton Global Bond Adv,24287719598,4,0.64,Large
+PRWCX,T. Rowe Price Capital Appreciation,24102203343,5,0.7,Large
+VFIDX,Vanguard Interm-Term Investment-Grde Adm,23893370289,4,0.1,Large
+VTHRX,Vanguard Target Retirement 2030 Inv,23677472017,4,0.15,Large
+VSMAX,Vanguard Small Cap Index Adm,23436347027,4,0.08,Large
+AMRMX,American Funds American Mutual A,23432533409,4,0.58,Large
+FCISX,Franklin Income C,23387179647,2,1.11,Large
+VTTHX,Vanguard Target Retirement 2035 Inv,23364811124,4,0.15,Large
+OAKIX,Oakmark International I,22561381082,3,0.95,Large
+SWPPX,Schwab S&P; 500 Index,22343795316,4,0.09,Large
+HACAX,Harbor Capital Appreciation Instl,21692162844,4,0.65,Large
+RPMGX,T. Rowe Price Mid-Cap Growth,21631512024,5,0.77,Large
+FDGRX,Fidelity Growth Company,21487990840,5,0.88,Large
+TRVLX,T. Rowe Price Value,21143464644,4,0.81,Large
+VMLUX,Vanguard Ltd-Term Tx-Ex Adm,21077520996,4,0.12,Large
+FSTVX,Fidelity Spartan Total Mkt Idx Advtg,20720728807,4,0.05,Large
+SGIIX,First Eagle Global I,20625401843,5,0.84,Large
+FBALX,Fidelity Balanced,20240568242,5,0.56,Large
+ABNDX,American Funds Bond Fund of Amer A,20238647439,2,0.6,Large
+TRRBX,T. Rowe Price Retirement 2020,20071176585,4,0.66,Large
+VIFSX,Vanguard 500 Index Signal,19786735873,4,0.05,Large
+FTBFX,Fidelity Total Bond,19442617882,4,0.45,Large
+FPURX,Fidelity Puritan,19380397785,4,0.56,Large
+VWELX,Vanguard Wellington Inv,19248272540,5,0.26,Large
+VTABX,Vanguard Total Intl Bd Idx Admiral,18569418744,5,0.14,Large
+VGSTX,Vanguard STAR Inv,18513132897,4,0.34,Large
+VGSLX,Vanguard REIT Index Adm,18358314888,4,0.12,Large
+VFIJX,Vanguard GNMA Adm,18212928410,4,0.11,Large
+PRFDX,T. Rowe Price Equity Income,18043447788,3,0.66,Large
+VTSNX,Vanguard Total Intl Stock Index I,17844608524,3,0.1,Large
+MALOX,BlackRock Global Allocation Instl,17826355256,4,0.87,Large
+SMCWX,American Funds SMALLCAP World A,17482743521,3,1.07,Large
+VTXVX,Vanguard Target Retirement 2015 Inv,17367738897,4,0.14,Large
+VIGAX,Vanguard Growth Index Adm,17293024735,4,0.08,Large
+VBIAX,Vanguard Balanced Index Adm,17120001437,5,0.08,Large
+MWTRX,Metropolitan West Total Return Bond M,16961836684,5,0.69,Large
+VEIRX,Vanguard Equity-Income Adm,16761769514,5,0.17,Large
+PAAIX,PIMCO All Asset Instl,16527566603,3,0.87,Large
+VFORX,Vanguard Target Retirement 2040 Inv,16400492926,4,0.16,Large
+TRRHX,T. Rowe Price Retirement 2025,16270211523,4,0.69,Large
+FPACX,FPA Crescent,16261821465,4,1.09,Large
+SGENX,First Eagle Global A,15874698588,5,1.11,Large
+TPINX,Templeton Global Bond A,15571928724,3,0.89,Large
+OAKBX,Oakmark Equity & Income I,15446271343,4,0.75,Large
+FGCKX,Fidelity Growth Company K,15127417020,4,0.77,Large
+VTIVX,Vanguard Target Retirement 2045 Inv,15087517699,4,0.16,Large
+VWEAX,Vanguard High-Yield Corporate Adm,15027640534,5,0.13,Large
+OAKMX,Oakmark I,15009496097,3,0.85,Large
+VEMPX,Vanguard Extended Market Idx InstlPlus,14771513216,3,0.05,Large
+PRNHX,T. Rowe Price New Horizons,14550033253,5,0.79,Large
+VWILX,Vanguard International Growth Adm,14546575845,3,0.34,Large
+MDLOX,BlackRock Global Allocation Inv A,14272255294,3,1.14,Large
+VWNFX,Vanguard Windsor II Inv,14083164567,3,0.34,Large
+DODBX,Dodge & Cox Balanced,13924408100,4,0.53,Large
+VWINX,Vanguard Wellesley Income Inv,13739691905,5,0.23,Large
+VEXAX,Vanguard Extended Market Idx Adm,13710602931,3,0.09,Large
+FBGRX,Fidelity Blue Chip Growth,13558021431,4,0.89,Large
+TRRDX,T. Rowe Price Retirement 2040,13164874000,4,0.75,Large
+FSEVX,Fidelity Spartan Extnd Mkt Idx Advtg,13084970594,3,0.07,Large
+VMCIX,Vanguard Mid Cap Index I,12937764798,4,0.07,Mid
+ODVYX,Oppenheimer Developing Markets Y,12830999417,4,1.05,Mid
+FMAGX,Fidelity Magellan,12763751052,2,0.85,Mid
+VSMGX,Vanguard LifeStrategy Moderate Gr Inv,12723904649,3,0.14,Mid
+TRLGX,T. Rowe Price Instl Large Cap Growth,12559376057,4,0.56,Mid
+DLTNX,DoubleLine Total Return Bond N,12272460854,5,0.72,Mid
+MINIX,MFS International Value I,12096044463,5,0.78,Mid
+FKTFX,Franklin CA Tax-Free Income A,12011450089,4,0.58,Mid
+MCLOX,BlackRock Global Allocation Inv C,11923467109,3,1.88,Mid
+VBILX,Vanguard Interm-Term Bond Index Adm,11866794225,5,0.09,Mid
+TRRJX,T. Rowe Price Retirement 2035,11841494833,5,0.74,Mid
+FFFDX,Fidelity Freedom 2020,11719607844,3,0.67,Mid
+PRHSX,T. Rowe Price Health Sciences,11696140531,5,0.76,Mid
+VAIPX,Vanguard Inflation-Protected Secs Adm,11545381104,4,0.1,Mid
+FESGX,First Eagle Global C,11536269806,4,1.86,Mid
+VASGX,Vanguard LifeStrategy Growth Inv,11508446812,4,0.15,Mid
+MADVX,BlackRock Equity Dividend Instl,11489665641,4,0.7,Mid
+FRDPX,Franklin Rising Dividends A,11456336118,3,0.92,Mid
+VWNEX,Vanguard Windsor Admiral,11446899070,3,0.29,Mid
+VVIAX,Vanguard Value Index Adm,11446395254,4,0.08,Mid
+FDIVX,Fidelity Diversified International,11198258600,3,1,Mid
+VMCPX,Vanguard Mid Cap Index InstlPlus,11183856203,5,0.05,Mid
+VGHCX,Vanguard Health Care Inv,11054806931,4,0.36,Mid
+LALDX,Lord Abbett Short Duration Income A,11019072540,4,0.6,Mid
+NEWFX,American Funds New World A,10915114968,5,1.04,Mid
+VSCIX,Vanguard Small Cap Index I,10901529457,4,0.07,Mid
+TEDIX,Franklin Mutual Global Discovery A,10614350699,4,1.24,Mid
+TRMCX,T. Rowe Price Mid-Cap Value,10555750794,5,0.8,Mid
+TEPLX,Templeton Growth A,10544639206,1,1.05,Mid
+VTINX,Vanguard Target Retirement Income Inv,10527205716,5,0.14,Mid
+VHCAX,Vanguard Capital Opportunity Adm,10455918665,4,0.38,Mid
+FLMVX,JPMorgan Mid Cap Value Instl,10309928701,5,0.75,Mid
+LSBDX,Loomis Sayles Bond Instl,10237349553,3,0.64,Mid
+FFFEX,Fidelity Freedom 2030,10217763430,3,0.75,Mid
+FAGIX,Fidelity Capital & Income,10105363953,5,0.75,Mid
+REREX,American Funds Europacific Growth R4,9960669507,3,0.85,Mid
+FBIOX,Fidelity Select Biotechnology Portfolio,9833324678,3,0.73,Mid
+PONDX,PIMCO Income D,9796297965,5,0.79,Mid
+ACEIX,Invesco Equity and Income A,9751431481,3,0.8,Mid
+VFSTX,Vanguard Short-Term Investment-Grade Inv,9648694128,4,0.2,Mid
+ANEFX,American Funds New Economy A,9607742260,2,0.78,Mid
+GSZIX,Goldman Sachs Strategic Income Instl,9477737108,3,0.57,Mid
+VIGIX,Vanguard Growth Index I,9415844658,4,0.07,Mid
+LZEMX,Lazard Emerging Markets Equity Instl,9244234524,3,1.1,Mid
+FOCPX,Fidelity OTC Portfolio,9087947892,5,0.83,Mid
+PRBLX,Parnassus Core Equity Investor,8958080459,5,0.87,Mid
+VIEIX,Vanguard Extended Market Idx I,8926035926,3,0.07,Mid
+VFIFX,Vanguard Target Retirement 2050 Inv,8922101835,4,0.16,Mid
+TBGVX,"Tweedy, Browne Global Value",8872281960,5,1.37,Mid
+YACKX,AMG Yacktman Service,8811791120,4,0.74,Mid
+VASVX,Vanguard Selected Value Inv,8774461926,4,0.39,Mid
+VTMGX,Vanguard Developed Markets Idx Admiral,8732084865,4,0.09,Mid
+RERFX,American Funds Europacific Growth R5,8587193379,4,0.54,Mid
+VFIIX,Vanguard GNMA Inv,8544282760,4,0.21,Mid
+FKTIX,Franklin Federal Tax-Free Income A,8425809100,3,0.62,Mid
+ARTIX,Artisan International Investor,8402153791,3,1.17,Mid
+TRRGX,T. Rowe Price Retirement 2015,8366085374,4,0.62,Mid
+OTCFX,T. Rowe Price Small-Cap Stock,8348327745,4,0.9,Mid
+FSITX,Fidelity Spartan US Bond Idx Advtg,8322834248,3,0.05,Mid
+VEMAX,Vanguard Emerging Mkts Stock Idx Adm,8282217063,3,0.15,Mid
+FSIVX,Fidelity Spartan Intl Idx Advtg,8204230212,3,0.08,Mid
+VGSNX,Vanguard REIT Index I,7964365439,4,0.1,Mid
+VAFAX,Invesco American Franchise A,7925708469,2,1.05,Mid
+VSCGX,Vanguard LifeStrategy Cnsrv Gr Inv,7917595862,4,0.13,Mid
+VPCCX,Vanguard PRIMECAP Core Inv,7883580590,4,0.47,Mid
+VIVIX,Vanguard Value Index I,7674250129,4,0.07,Mid
+TWCUX,American Century Ultra Inv,7649803826,4,0.98,Mid
+FKGRX,Franklin Growth A,7637729854,3,0.88,Mid
+VTRIX,Vanguard International Value Inv,7631273481,3,0.46,Mid
+DFFVX,DFA US Targeted Value I,7613006929,3,0.37,Mid
+PONAX,PIMCO Income A,7608090475,5,0.85,Mid
+FSICX,Fidelity Strategic Income,7449294466,4,0.71,Mid
+PTTAX,PIMCO Total Return A,7424935028,3,0.85,Mid
+FSPHX,Fidelity Select Health Care Portfolio,7422917830,4,0.73,Mid
+VSIAX,Vanguard Small Cap Value Index Admiral,7416818605,5,0.08,Mid
+MDISX,Franklin Mutual Global Discovery Z,7351668026,4,0.99,Mid
+VEXRX,Vanguard Explorer Adm,7309709743,3,0.35,Mid
+PRHYX,T. Rowe Price High-Yield,7187573303,4,0.74,Mid
+BALCX,American Funds American Balanced C,7183238843,5,1.38,Mid
+FDVLX,Fidelity Value,7056540268,3,0.84,Mid
+PONCX,PIMCO Income C,6964472520,5,1.6,Mid
+TRRKX,T. Rowe Price Retirement 2045,6915730244,4,0.75,Mid
+MUTHX,Franklin Mutual Shares Z,6888073583,4,0.81,Mid
+LDLAX,Lord Abbett Short Duration Income C,6851481603,4,1.25,Mid
+VGELX,Vanguard Energy Adm,6747307030,4,0.31,Mid
+PRSVX,T. Rowe Price Small-Cap Value,6724662160,4,0.92,Mid
+VBMFX,Vanguard Total Bond Market Index Inv,6631071243,3,0.16,Mid
+ODMAX,Oppenheimer Developing Markets A,6618464318,4,1.3,Mid
+FIGRX,Fidelity International Discovery,6491385843,3,0.99,Mid
+SNXFX,Schwab 1000 Index,6458666555,4,0.29,Mid
+NYVTX,Davis NY Venture A,6458047153,2,0.86,Mid
+VWIGX,Vanguard International Growth Inv,6443729828,3,0.47,Mid
+FFFFX,Fidelity Freedom 2040,6441251236,3,0.77,Mid
+ACSTX,Invesco Comstock A,6375517741,2,0.83,Mid
+FGMNX,Fidelity GNMA,6318208993,4,0.45,Mid
+POAGX,PRIMECAP Odyssey Aggressive Growth,6317658427,5,0.62,Mid
+TWEIX,American Century Equity Income Inv,6279043252,5,0.93,Mid
+RPSIX,T. Rowe Price Spectrum Income,6267013032,4,0.69,Mid
+CIBCX,American Funds Capital Inc Bldr C,6246303456,4,1.38,Mid
+POGRX,PRIMECAP Odyssey Growth,6192767190,4,0.64,Mid
+IFACX,American Funds Inc Fund of Amer C,6111182837,4,1.35,Mid
+VSGAX,Vanguard Small Cap Growth Index Admiral,6055637920,4,0.08,Mid
+CSRSX,Cohen & Steers Realty Shares,5960778198,4,0.96,Mid
+TRREX,T. Rowe Price Real Estate,5945681681,4,0.76,Mid
+MDDVX,BlackRock Equity Dividend Inv A,5931655307,4,0.97,Mid
+PRRIX,PIMCO Real Return Instl,5779837834,5,0.45,Mid
+VTENX,Vanguard Target Retirement 2010 Inv,5748117720,5,0.14,Mid
+FDGFX,Fidelity Dividend Growth,5747986597,2,0.69,Mid
+VSEQX,Vanguard Strategic Equity Inv,5717654076,4,0.21,Mid
+FFRHX,Fidelity Floating Rate High Income,5710219358,4,0.7,Mid
+JANDX,Janus D,5701160539,3,0.77,Mid
+TIBCX,Thornburg Investment Income Builder C,5559689246,3,2.06,Mid
+PTRAX,PIMCO Total Return Admin,5469097811,4,0.71,Mid
+VEIPX,Vanguard Equity-Income Inv,5445297543,5,0.26,Mid
+LAFFX,Lord Abbett Affiliated A,5416649327,2,0.74,Mid
+VHDYX,Vanguard High Dividend Yield Index Inv,5406513800,5,0.16,Mid
+POSKX,PRIMECAP Odyssey Stock,5400178164,4,0.65,Mid
+MSIGX,Oppenheimer Main Street A,5378303414,3,0.94,Mid
+FGRIX,Fidelity Growth & Income Portfolio,5326551260,2,0.67,Mid
+PMEGX,T. Rowe Price Instl Mid-Cap Equity Gr,5294263061,5,0.61,Mid
+FSCRX,Fidelity Small Cap Discovery,5223891925,5,1.01,Mid
+FRESX,Fidelity Real Estate Investment Port,5212853639,4,0.78,Mid
+PTTDX,PIMCO Total Return D,5198345638,4,0.75,Mid
+FMCSX,Fidelity Mid-Cap Stock,5160039708,4,0.73,Mid
+TWCGX,American Century Growth Inv,5156163073,4,0.97,Mid
+PCRIX,PIMCO Commodity Real Ret Strat Instl,5046315191,3,0.74,Mid
+FDCAX,Fidelity Capital Appreciation,4999308754,3,0.83,Mid
+JNBCX,JPMorgan Income Builder C,4987727111,3,1.25,Small
+GFACX,American Funds Growth Fund of Amer C,4941328969,3,1.45,Small
+FUSEX,Fidelity Spartan 500 Index Inv,4920010324,4,0.09,Small
+SHRAX,ClearBridge Aggressive Growth A,4879576368,2,1.13,Small
+VWNDX,Vanguard Windsor Inv,4878372137,3,0.39,Small
+TRRMX,T. Rowe Price Retirement 2050,4862258663,4,0.75,Small
+TEGBX,Templeton Global Bond C,4856554945,4,1.29,Small
+ITHAX,Hartford Capital Appreciation A,4848914857,1,1.09,Small
+OAKLX,Oakmark Select I,4818271871,2,0.95,Small
+OSTIX,Osterweis Strategic Income,4802583796,3,0.83,Small
+JABAX,Janus Balanced T,4790829017,5,0.83,Small
+PRDGX,T. Rowe Price Dividend Growth,4787659564,5,0.64,Small
+PREMX,T. Rowe Price Emerging Markets Bond,4767937369,4,0.93,Small
+SEQUX,Sequoia,4756261356,2,1.03,Small
+LSBRX,Loomis Sayles Bond Retail,4752216631,3,0.89,Small
+NHMAX,Nuveen High Yield Municipal Bond A,4731309763,4,0.77,Small
+RERCX,American Funds Europacific Growth R3,4730328287,3,1.14,Small
+SWTSX,Schwab Total Stock Market Index,4720215049,4,0.09,Small
+FASIX,Fidelity Asset Manager 20%,4714427402,4,0.53,Small
+VIPSX,Vanguard Inflation-Protected Secs Inv,4670353639,4,0.2,Small
+RMUNX,Oppenheimer Rochester Fund Municipals A,4662188362,4,0.73,Small
+VWITX,Vanguard Interm-Term Tx-Ex Inv,4660755921,4,0.2,Small
+USATX,USAA Tax Exempt Intermediate-Term,4590102821,5,0.55,Small
+SPHIX,Fidelity High Income,4563179334,3,0.73,Small
+FNMIX,Fidelity New Markets Income,4527781050,4,0.86,Small
+PGRWX,Putnam Fund for Growth & Income A,4464713207,2,0.94,Small
+FRSTX,Franklin Strategic Income A,4448516149,2,0.86,Small
+FFNOX,Fidelity Four-in-One Index,4327243032,4,0.11,Small
+VHGEX,Vanguard Global Equity Inv,4283762266,4,0.57,Small
+STFGX,State Farm Growth,4275810636,4,0.12,Small
+MPGFX,Mairs & Power Growth Inv,4251369548,5,0.65,Small
+TEMWX,Templeton World A,4243239719,2,1.06,Small
+VWESX,Vanguard Long-Term Investment-Grade Inv,4234514009,5,0.21,Small
+PRFHX,T. Rowe Price Tax-Free High Yield,4186451716,4,0.69,Small
+VMGRX,Vanguard Mid Cap Growth Inv,4159815508,4,0.43,Small
+NAESX,Vanguard Small Cap Index Inv,4092776504,4,0.2,Small
+BAICX,BlackRock Multi-Asset Income Investor A,4087517145,4,0.84,Small
+FKUTX,Franklin Utilities A,4065463321,4,0.73,Small
+VIMSX,Vanguard Mid Cap Index Inv,4029154000,4,0.2,Small
+ACRNX,Columbia Acorn Z,4024835345,3,0.82,Small
+TWHIX,American Century Heritage Inv,4006894678,4,1,Small
+JNBAX,JPMorgan Income Builder A,4005367821,3,0.75,Small
+VMRGX,Vanguard Morgan Growth Inv,3995785727,3,0.4,Small
+PTTCX,PIMCO Total Return C,3934520273,3,1.6,Small
+FARCX,Nuveen Real Estate Securities I,3933588698,5,1.05,Small
+VWEHX,Vanguard High-Yield Corporate Inv,3854196400,4,0.23,Small
+VWUSX,Vanguard US Growth Inv,3823872572,4,0.47,Small
+YAFFX,AMG Yacktman Focused Service,3778337196,4,1.25,Small
+VTMSX,Vanguard Tax-Managed Small Cap Adm,3749021189,5,0.11,Small
+VASIX,Vanguard LifeStrategy Income Inv,3652341726,5,0.12,Small
+SHAPX,ClearBridge Appreciation A,3627936546,3,0.98,Small
+PRMTX,T. Rowe Price Media & Telecommunications,3619089521,5,0.79,Small
+MQIFX,Franklin Mutual Quest Z,3440815154,4,0.82,Small
+VEXPX,Vanguard Explorer Inv,3437478417,3,0.49,Small
+PRSGX,T. Rowe Price Spectrum Growth,3408056367,2,0.79,Small
+PRWAX,T. Rowe Price New America Growth,3368699545,4,0.79,Small
+MAMAX,MFS Moderate Allocation A,3349366691,3,1,Small
+VGENX,Vanguard Energy Inv,3336394351,4,0.37,Small
+FSCSX,Fidelity Select Software & Comp Port,3334350332,5,0.77,Small
+USAIX,USAA Income,3330118890,4,0.53,Small
+PRIDX,T. Rowe Price International Discovery,3288884607,4,1.2,Small
+FDFFX,Fidelity Independence,3283637103,1,0.86,Small
+ORNAX,Oppenheimer Rochester High Yld Muni A,3249710070,3,0.74,Small
+ARTMX,Artisan Mid Cap Investor,3247088306,4,1.19,Small
+KAUFX,Federated Kaufmann R,3238678589,3,1.99,Small
+PNOPX,Putnam Multi-Cap Growth A,3222681753,2,1.04,Small
+VBINX,Vanguard Balanced Index Inv,3220389501,5,0.22,Small
+NICSX,Nicholas,3218628643,5,0.72,Small
+WASCX,Ivy Asset Strategy C,3217234922,2,1.68,Small
+AKREX,Akre Focus Retail,3205337926,5,1.34,Small
+FSDIX,Fidelity Strategic Dividend & Income,3156646404,5,0.78,Small
+PRSCX,T. Rowe Price Science & Tech,3091516550,4,0.84,Small
+ANAYX,AllianceBern Global Bond Advisor,3021966256,4,0.6,Small
+VFFVX,Vanguard Target Retirement 2055 Inv,3017879475,4,0.16,Small
+PRUAX,Prudential Jennison Utility A,2995780347,2,0.84,Small
+FSPTX,Fidelity Select Technology Portfolio,2976978702,3,0.78,Small
+FFFGX,Fidelity Freedom 2045,2971986977,3,0.77,Small
+PRPFX,Permanent Portfolio,2958469462,3,0.8,Small
+FMILX,Fidelity New Millennium,2925911980,3,0.74,Small
+VIGRX,Vanguard Growth Index Inv,2922910467,4,0.22,Small
+MAGWX,MFS Growth Allocation A,2916200706,3,1.06,Small
+VGSIX,Vanguard REIT Index Inv,2903033172,3,0.26,Small
+GLRBX,James Balanced: Golden Rainbow R,2900961886,5,0.97,Small
+FAIRX,Fairholme,2888806992,1,1.04,Small
+VFICX,Vanguard Interm-Term Invmt-Grade Inv,2881805163,3,0.2,Small
+JAVLX,Janus Twenty T,2871607746,3,0.82,Small
+VTMFX,Vanguard Tax-Managed Balanced Adm,2862382641,5,0.11,Small
+USSPX,USAA S&P; 500 Index Member,2861498197,4,0.26,Small
+VINEX,Vanguard International Explorer Inv,2818837416,3,0.42,Small
+FLVCX,Fidelity Leveraged Company Stock,2799990687,2,0.79,Small
+VQNPX,Vanguard Growth & Income Inv,2789515758,4,0.34,Small
+PRGTX,T. Rowe Price Global Technology,2776571876,5,0.91,Small
+SHSAX,BlackRock Health Sciences Opps Inv A,2749585177,4,1.16,Small
+FHAIX,Franklin High Income A,2745124137,2,0.76,Small
+ARTQX,Artisan Mid Cap Value Investor,2735454069,3,1.19,Small
+PRNEX,T. Rowe Price New Era,2733500471,4,0.67,Small
+SOPAX,ClearBridge Equity Income A,2715896472,3,1.15,Small
+MMUFX,MFS Utilities A,2710156877,2,1,Small
+VGPMX,Vanguard Precious Metals and Mining Inv,2693462601,3,0.35,Small
+FRIFX,Fidelity Real Estate Income,2693345892,4,0.83,Small
+PVOYX,Putnam Voyager A,2688485122,1,1.05,Small
+MAPTX,Matthews Pacific Tiger Investor,2638907516,4,1.07,Small
+PRASX,T. Rowe Price New Asia,2522964801,3,0.94,Small
+ONGIX,JPMorgan Investor Growth & Income A,2484615255,3,1.22,Small
+JATTX,Janus Triton T,2483973517,5,0.92,Small
+FSENX,Fidelity Select Energy Portfolio,2481054148,4,0.8,Small
+FLCSX,Fidelity Large Cap Stock,2473662745,3,0.78,Small
+FSMEX,Fidelity Select Medical Equip & Systems,2431665220,4,0.76,Small
+FFFHX,Fidelity Freedom 2050,2417369777,3,0.77,Small
+FSMVX,Fidelity Mid Cap Value,2413408333,4,0.86,Small
+GWPAX,American Funds Growth Portfolio A,2374617311,1,0.75,Small
+TRRIX,T. Rowe Price Retirement Income,2358952981,4,0.56,Small
+FNCMX,Fidelity Nasdaq Composite Index,2336050720,5,0.29,Small
+WASAX,Ivy Asset Strategy A,2280670109,2,0.96,Small
+FDFAX,Fidelity Select Consumer Staples Port,2229226428,3,0.77,Small
+VHCOX,Vanguard Capital Opportunity Inv,2079259187,4,0.45,Small
+FSRPX,Fidelity Select Retailing Portfolio,2014845087,5,0.81,Small
+TRRNX,T. Rowe Price Retirement 2055,1998811961,4,0.75,Small
+VISVX,Vanguard Small Cap Value Index Inv,1948187851,5,0.2,Small
+THOPX,Thompson Bond,1947879903,5,0.71,Small
+FBSOX,Fidelity Select IT Services Portfolio,1946225610,4,0.81,Small
+VEXMX,Vanguard Extended Market Idx Inv,1935303939,3,0.22,Small
+VWAHX,Vanguard High-Yield Tax-Exempt,1923852808,5,0.2,Small
+ONGAX,JPMorgan Investor Growth A,1891670855,4,1.18,Small
+PIREX,Principal Real Estate Securities Inst,1851273139,5,0.89,Small
+VISGX,Vanguard Small Cap Growth Index Inv,1824023840,4,0.2,Small
+SGROX,Wells Fargo Advantage Growth Inv,1795164256,4,1.24,Small
+USIBX,USAA Intermediate-Term Bond,1771130987,5,0.68,Small
+SPECX,Alger Spectra A,1730942005,4,1.19,Small
+TAREX,Third Avenue Real Estate Value Instl,1723776255,4,1.1,Small
+VCAIX,Vanguard CA Interm-Term Tax-Exempt Inv,1697610274,4,0.2,Small
+BERIX,Berwyn Income,1691115585,5,0.67,Small
+FSAGX,Fidelity Select Gold Portfolio,1689158274,3,0.94,Small
+SMMIX,Invesco Summit P,1664618958,3,0.89,Small
+PENNX,Royce Pennsylvania Mutual Invmt,1644907819,3,0.93,Small
+VPGDX,Vanguard Managed Payout Investor,1636243921,3,0.38,Small
+MLPDX,Oppenheimer SteelPath MLP Income A,1568567947,2,1.38,Small
+TGLDX,Tocqueville Gold,1555066228,4,1.44,Small
+GASFX,Hennessy Gas Utility Index Investor,1543620873,4,1.02,Small
+FPHAX,Fidelity Select Pharmaceuticals Port,1539489572,4,0.78,Small
+VBIIX,Vanguard Interm-Term Bond Index Inv,1534991164,5,0.16,Small
+FSELX,Fidelity Select Electronics Portfolio,1533513593,3,0.77,Small
+JAMRX,Janus Research T,1514319532,4,1,Small
+VEIEX,Vanguard Emerging Mkts Stock Idx Inv,1484233056,3,0.33,Small
+JNGLX,Janus Global Life Sciences D,1435461056,4,0.85,Small
+FDESX,Fidelity Advisor Diversified Stock O,1427419402,2,0.53,Small
+VIVAX,Vanguard Value Index Inv,1397484783,4,0.22,Small
+LMVTX,ClearBridge Value C,1319414307,2,1.75,Small
+VUSTX,Vanguard Long-Term Treasury Inv,1288965325,3,0.2,Small
+PRESX,T. Rowe Price European Stock,1282346806,4,0.95,Small
+HSCSX,Homestead Small Company Stock,1272524789,4,0.87,Small
+FSCHX,Fidelity Select Chemicals Portfolio,1257700994,5,0.8,Small
+USAUX,USAA Aggressive Growth,1163049632,3,0.78,Small
+RIDEX,American Funds Inc Fund of Amer R4,1155897378,5,0.62,Small
+FBDIX,Franklin Biotechnology Discovery A,1154815176,2,1,Small
+OGBCX,JPMorgan Investor Balanced C,1154762675,3,1.76,Small
+USAWX,USAA World Growth,1139102579,5,1.17,Small
+MLPAX,Oppenheimer SteelPath MLP Alpha A,1108278506,3,1.52,Small
+USHYX,USAA High Income,1075966162,4,0.89,Small
+TOLLX,Deutsche Global Infrastructure A,1066421275,4,1.38,Small
+USBSX,USAA Cornerstone Moderate,1064461990,2,1.09,Small
+FSUTX,Fidelity Select Utilities Portfolio,1057558268,3,0.8,Small
+LEXCX,Voya Corporate Leaders Trust B,1031281220,4,0.59,Small
+MFLDX,MainStay Marketfield I,992013921,2,1.64,Small
+TWGTX,American Century All Cap Growth Inv,990781819,3,1,Small
+FSDAX,Fidelity Select Defense & Aero Port,984844890,5,0.8,Small
+SWHFX,Schwab Health Care,971193228,3,0.79,Small
+FHKCX,Fidelity China Region,965789079,4,0.99,Small
+FSEMX,Fidelity Spartan Extended Mkt Index Inv,957344719,3,0.1,Small
+GENIX,Gotham Enhanced Return Institutional,955062347,3,2.13,Small
+VCVLX,Vanguard Capital Value Inv,934657052,2,0.5,Small
+CGMRX,CGM Realty,927556268,2,0.92,Small
+FSIIX,Fidelity Spartan International Idx Inv,925564193,3,0.19,Small
+VDAIX,Vanguard Dividend Appreciation Idx Inv,886037501,4,0.19,Small
+CGMFX,CGM Focus,846160809,1,1.13,Small
+GAUCX,Gabelli Utilities C,830620145,2,2.14,Small
+FNARX,Fidelity Select Natural Resources Port,809933032,3,0.86,Small
+PGNAX,Prudential Jennison Natural Resources A,760759280,2,1.22,Small
+FSTMX,Fidelity Spartan Total Market Idx Inv,701468799,4,0.09,Small
+VEURX,Vanguard European Stock Index Inv,627204876,3,0.26,Small
+JAOSX,Janus Overseas T,606658229,1,0.67,Small
+PRLAX,T. Rowe Price Latin America,586927875,3,1.37,Small
+HSGFX,Hussman Strategic Growth,580503279,1,1.13,Small
+MCHFX,Matthews China Investor,553947850,3,1.14,Small
+ICPAX,Integrity Williston Bsn/Md-N Amer Stk A,552049374,4,1.45,Small
+FLATX,Fidelity Latin America,517302920,2,1.13,Small
+FSESX,Fidelity Select Energy Service Port,500675708,2,0.85,Small
+FSNGX,Fidelity Select Natural Gas Portfolio,417197049,3,0.89,Small
+GABUX,Gabelli Utilities AAA,398880321,3,1.39,Small
