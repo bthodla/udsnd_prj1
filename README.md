@@ -19,7 +19,7 @@ The steps taken to load the above into Pandas dataframes and for analyzing them 
 
 The analysis done on this data tries to answer the following questions:
 
--   Does an increase in touches result in an increase in sales?
--   Does a low count of touches result in higher redemptions?
+-   Are higher sales due to a higher number of touches?
+-   Does a low count of touches result in higher redemptions in customers?
 -   Are all highly sold products of Morning Star Rating 4 or 5?
 -   Is there a correlation between geographic regions and higher sales?
